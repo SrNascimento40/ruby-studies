@@ -1,0 +1,6 @@
+source 'https://rubygems.org/'
+
+gem 'os'
+
+# cd first project
+# bundle install
