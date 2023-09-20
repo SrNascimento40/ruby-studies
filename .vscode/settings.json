@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": false,
+    "[ruby]": {
+        "editor.formatOnSaveMode": "modifications",
+        "editor.formatOnSave": false
+    }
+}
